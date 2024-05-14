@@ -50,7 +50,7 @@ The steps to load the new firmware are:
 
 4. Copy the .UF2 file onto this Mass Storage Device. If successful the Mass Storage Device will disappear.
 5. Next plug in the USB-C cable to the left half of your Glove80 and to the host computer.
-6. Put the left half into bootloader mode. On the default key layout, this is done by pressing the keys Magic + Esc. If this doesn’t work or if you have changed your layout, please see the section on Putting Glove80 into Bootloader for Firmware Loading.
+6. Put the left half into bootloader mode. On the default key layout, this is done by pressing the keys Magic + Esc (Tab on the current layout). If this doesn’t work or if you have changed your layout, please see the section on Putting Glove80 into Bootloader for Firmware Loading.
 7. If successful, the bootloader will present a USB Mass Storage Device. As an example, on Windows you will see a File Explorer window with the name GLV80LHBOOT
 8. Copy the .UF2 file into this Mass Storage Device. If successful the Mass Storage Device will disappear.
 9. After a firmware version change or changes made to Advanced Configuration, it is generally recommended to perform a Configuration factory reset and re-pairing left and right halves procedure.
